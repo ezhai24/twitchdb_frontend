@@ -11,4 +11,4 @@ This application is not currently hosted so to run it:
 The app will be running on a randomly assigned localhost port
 
 ## Application Screenshot
-![screenshot](./screenshot.png)
+![screenshot](./screenshot.jpg)
